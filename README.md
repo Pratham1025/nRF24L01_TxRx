@@ -1,4 +1,6 @@
 # nRF24L01_TxRx_Bluepill
+
+Main code is in the path Core-->Src-->main.c file
  
 This project interfaces 2 nRF24L01+ transceivers using the STM32F103C8 microcontroller to send 2 bytes of data. Specific configurations to the transceiver can be changed using user defined functions but this project uses predefined conditions to the transceivers as an example. I will work on these user-defined functions maybe later.
 
